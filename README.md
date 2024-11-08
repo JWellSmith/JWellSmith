@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JWellSmith
-- 👀 I’m interested in graduating college without going insane
+- 👀 I’m interested in graduating college without losing it
 - 🌱 I’m currently learning Net MAUI
 
 
